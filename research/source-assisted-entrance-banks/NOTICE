@@ -1,0 +1,12 @@
+Source-assisted entrance-bank composition, 2026. Apache-2.0.
+Prepared by huxint with substantial OpenAI Codex assistance.
+
+This package composes PR193's exact local complex flow, PR187's globally
+emitted bit supplier, and PR186's completed entrance-bank construction.
+The bank identity, suppliers, finite bridge and exponent assembly retain
+their original authorship; no exclusive priority is claimed.
+
+Original notices remain in the copied PR187 package, pr186_NOTICE,
+pr186_bit_prove.py, base_two_moment.py and the inherited repository sources.
+See the repository NOTICE for the upstream paired-cube, shared-core,
+source-assisted, finite-leaf, assembly and analytic-interface contributors.
